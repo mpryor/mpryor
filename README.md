@@ -10,17 +10,8 @@ I spend a lot of time in container platforms, and building tooling around networ
 - 🌱 I’m currently learning ... 
   - Rust
   - eBPF
-- My tech stack:
-  - Go
-  - Python
-  - ReactJS / TypeScript
-  - Java
-  - Bash
-  - Vim
-  - Git
-  - K8s
-  - Cloud Foundry
-  - Networking
-  - Network troubleshooting - wireshark, tcpdump, netstat, etc
-  - Infra Automation - Ansible, Terraform, etc
-  - Public Cloud - AWS/GCP
+
+### My tech stack
+Go | Python | ReactJS | TypeScript | Java | Bash/Zsh | Vim | Git  
+Networking | Network troubleshooting - wireshark, tcpdump, netstat, etc | Infra Automation - Ansible, Terraform, etc  
+K8s | Cloud Foundry | Public Cloud - AWS/GCP
