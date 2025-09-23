@@ -9,10 +9,8 @@ I spend a lot of time in container platforms, and building tooling around networ
 **Cloud and Virtualization** - K8s | Cloud Foundry | Public Cloud - AWS/GCP | VMware/Vsphere
 
 - 🔭 I’m currently working on ...
-  - [notree](https://github.com/notree-md/notree)
-  - [mpryor.dev](https://mpryor.dev)
+  - [nless](https://github.com/mpryor/nothing-less)
   - Self-service tooling, process automation, and building an internal container platform @ Cigna
 - 🌱 I’m currently learning ... 
   - Rust
   - eBPF
-
