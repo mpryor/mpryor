@@ -10,6 +10,7 @@ I spend a lot of time in container platforms, and building tooling around networ
 
 - 🔭 I’m currently working on ...
   - [nless](https://github.com/mpryor/nothing-less)
+  - [RootCause](https://root-cause.app/)
   - Self-service tooling, process automation, and building an internal container platform @ Cigna
 - 🌱 I’m currently learning ... 
   - Rust
